@@ -10,7 +10,7 @@ with open(e,'r') as file:
     for k in i:
         m=k.split(':')   ###file separator can be changed 
         user,passw=m
-        print("\033[0m ")
+        print("\033[37m ")
         os.system(f"bash main.sh {user} {passw}")
 
 
