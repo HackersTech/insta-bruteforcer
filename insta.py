@@ -8,7 +8,7 @@ e=input("enter email:pass txt file ")
 with open(e,'r') as file:
     i =file.readlines()
     for k in i:
-        m=k.split(':')   ###change file separator if
+        m=k.split(':')   ###file separator can be changed 
         user,passw=m
         os.system(f"bash main.sh {user} {passw}")
 
