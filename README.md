@@ -42,7 +42,7 @@ python3 insta.py
 - >sample.txt file
 
 - it is a example of email:pass txt file 
-- file should be colon : separated
+- email:pass should be colon : separated
 - NO SPACE !!! should be there in the file
 ---
 ### follow on 
