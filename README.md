@@ -40,8 +40,10 @@ python3 insta.py
 ```
 ## run
 - >sample.txt file
-it is a example of email:pass txt file 
-file should be colon : separated
+
+- it is a example of email:pass txt file 
+- file should be colon : separated
+- NO SPACE !!! should be there in the file
 ---
 ### follow on 
 
