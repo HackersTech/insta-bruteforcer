@@ -12,6 +12,4 @@ with open(e,'r') as file:
         user,passw=m
         print("\033[37m ")
         os.system(f"bash main.sh {user} {passw}")
-
-
-os.system("rm -rf cookie.*")
+        os.system("rm -rf cookie.*")
