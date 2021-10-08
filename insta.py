@@ -14,3 +14,4 @@ with open(e,'r') as file:
         os.system(f"bash main.sh {user} {passw}")
 
 
+os.system("rm -rf cookie.*")
