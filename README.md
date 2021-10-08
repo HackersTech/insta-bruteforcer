@@ -24,6 +24,8 @@ Here -:
 
 - apt install openssl-tool
 
+- apt install lolcat
+
 
 
 ### main-
