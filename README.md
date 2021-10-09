@@ -38,7 +38,7 @@ Here -:
 cd insta-bruteforcer
 python3 insta.py
 ```
-## run
+## run 
 ![image](https://github.com/HackersTech/insta-bruteforcer/blob/main/IMG_20211009_223554_668.jpg)
 - >sample.txt file
 
@@ -46,6 +46,7 @@ python3 insta.py
 - email:pass should be colon : separated
 - NO SPACE !!! should be there in the file
 ---
+![kali Linux](https://github.com/HackersTech/insta-bruteforcer/blob/main/IMG20211008111137.jpg)
 
 ### follow on 
 
